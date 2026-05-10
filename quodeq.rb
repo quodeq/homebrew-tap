@@ -3,8 +3,8 @@ class Quodeq < Formula
 
   desc "AI-powered source code quality evaluation platform"
   homepage "https://github.com/quodeq/quodeq"
-  url "https://files.pythonhosted.org/packages/source/q/quodeq/quodeq-1.1.1.tar.gz"
-  sha256 "014eee8520b4790789359f1dd0fab09fc6d6b77d48f50211567522d5240c08d8"
+  url "https://files.pythonhosted.org/packages/source/q/quodeq/quodeq-1.1.2.tar.gz"
+  sha256 "aa909be4d81e63e38ca8838fa6ec11510eb1d44f998921c3295f0596eaa2cbea"
   license "MIT"
 
   depends_on "python@3.12"
