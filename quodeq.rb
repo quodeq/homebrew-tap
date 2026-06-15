@@ -8,7 +8,6 @@ class Quodeq < Formula
   license "MIT"
 
   depends_on "python@3.12"
-  depends_on "node"
 
   def install
     virtualenv_install_with_resources
